@@ -1,8 +1,6 @@
 let bitcoin_data = document.getElementById("bitcoin-data");
 
 function getBPI() {
-  //let url = "https://datahub.io/core/population/datapackage.json";
-  //let url = "https://api.coindesk.com/v1/bpi/currentprice.json";
   let url = "https://api.coinbase.com/v2/prices/spot?currency=USD";
   
   fetch(url)
@@ -16,4 +14,4 @@ function getBPI() {
 }
 
 getBPI();
-setInterval(getBPI,10000);
+setInterval(getBPI, 60000);
