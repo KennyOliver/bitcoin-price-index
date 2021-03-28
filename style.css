@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+html {
+  height: 100%;
+}
+
+body {
+  background: black;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#bitcoin-data {
+  display: inline-block;
+  font-family: 'Comfortaa', cursive;
+  font-style: italic;
+}
