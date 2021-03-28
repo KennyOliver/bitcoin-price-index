@@ -7,7 +7,7 @@
 
 [![repl](https://replit.com/badge/github/KennyOliver/bitcoin-price-index)](https://replit.com/@KennyOliver/bitcoin-price-index)
 
-**Bitcoin price index in USD using an API minutely**
+**Bitcoin price index in USD using an API once per minute**
 
 ---
 Kenny Oliver ©2021
