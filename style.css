@@ -11,8 +11,31 @@ body {
   text-align: center;
 }
 
+#title {
+  font-family: 'Comfortaa', cursive;
+  position: relative;
+  font-size: 30px;
+  z-index: 1;
+  overflow: hidden;
+  text-align: center;
+}
+#title:before, #title:after {
+  position: absolute;
+  top: 51%;
+  overflow: hidden;
+  width: 50%;
+  height: 1px;
+  content: '\a0';
+  background-color: orange;
+}
+#title:before {
+  margin-left: -50%;
+  text-align: right;
+}
 #bitcoin-data {
-  display: inline-block;
   font-family: 'Comfortaa', cursive;
   font-style: italic;
+}
+#orange-bar {
+  border-color: orange;
 }
