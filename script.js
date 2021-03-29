@@ -13,5 +13,6 @@ function getBPI() {
     });
 }
 
+bitcoin_data.innerHTML = "1 BTC = Loading...";
 getBPI();
 setInterval(getBPI, 60000);
