@@ -9,7 +9,7 @@
 
 **Bitcoin price index in USD using an API once per minute**
 
-[![GitHub Pages](https://img.shields.io/badge/See%20It%20In%20Action-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io/bitcoin-price-index)](https://kennyoliver.github.io/bitcoin-price-index)
+[![GitHub Pages](https://img.shields.io/badge/See%20Demo-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io/bitcoin-price-index)](https://kennyoliver.github.io/bitcoin-price-index)
 
 ---
 Kenny Oliver ©2021
